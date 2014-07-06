@@ -1,0 +1,123 @@
+body {
+	background-color: #333333;
+	font-family: calibri;
+}
+
+
+.header {
+	background-color: #c0c0c0;
+	margin: 0 auto;
+	width: 780px;
+	height: 170px;
+	border: 20px solid;
+	border-color: #969696;	
+
+}
+
+.logo {
+	position: relative;
+	padding: 10px 0 0 20px;
+	float: left;
+	font-size: 11px;
+}
+
+.logo-gray {
+	font-family: arial black;
+	font-size: 9pt;
+	color: #333333;
+	clear: both;
+	float: left;
+	padding-left: 25px;
+	padding-top: 10px;
+}
+
+.logo-red {
+	font-family: arial black;
+	font-size: 9pt;
+	color: #ff0000;
+	clear: both;
+	float: left;
+	padding-left: 25px;
+}
+
+.lang {
+	margin-left: 200px;
+	margin-top: 25px;
+	font-size: 10pt;
+	font-style: italic;
+	color: #333333;
+}
+
+.lang li {
+	display: inline;
+	padding-left: 25px;
+}
+
+.lang li a {
+	text-decoration: none;
+	color: #333333;
+}
+
+.top-menu {
+	clear: both;
+	margin-top: 95px;
+}
+
+.top-menu li {
+	display: inline;
+	padding-left: 45px;
+}
+
+.top-menu li a {
+	text-decoration: none;
+	color: #333333;
+	font-size: 10pt;
+	font-style: italic;
+}
+
+.content {
+	background-color: #c0c0c0;
+	margin: 0 auto;
+	width: 780px;
+	height: 500px;
+	border: 20px solid;
+	border-top: 0;
+	border-color: #969696;
+}
+
+.foto-home {
+	border: 2px solid;
+	border-color: #969696;
+	margin-top: 70px;
+	margin-left: 40px;
+	float: left;
+	clear: both;
+}
+
+.text-home {
+	padding-top: 30px;
+	margin-left: 270px;
+}
+
+
+.logo-home {
+	float: left;
+	padding-top: 10px;
+}
+
+.logo-home-gray {
+	font-family: arial black;
+	font-size: 9pt;
+	color: #333333;
+	clear: both;
+	padding-left: 25px;
+	padding-top: 20px;
+}
+
+.logo-home-red {
+	font-family: arial black;
+	font-size: 9pt;
+	color: #ff0000;
+	clear: both;
+	padding-left: 25px;
+}
